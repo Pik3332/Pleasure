@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".pack.toml.kate-swp"
-hash = "2a6a6e28ad3977a934f0b07682be9af8232742b60ed35635014c80779136122d"
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
 metafile = true
