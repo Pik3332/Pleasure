@@ -1,18 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
-hash = "47c701c67e70b60b3a71c9ec4aff707ea0411f033024730b1ca0567b8526a824"
+hash = "fb3233553d7a88373fcd54e6fbeac1f593fdfbe44f00e0c24790a01774545e2f"
 metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "0a94f9ca9a86267c51832956da72f6f9b8ba598dcac48c3a93b6e50d38089879"
+hash = "1a0a919e4815e3869846483c937ecb395d0700fa10a1d1feae790508853773d8"
 metafile = true
 
 [[files]]
