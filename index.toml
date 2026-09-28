@@ -1,13 +1,33 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "fb3233553d7a88373fcd54e6fbeac1f593fdfbe44f00e0c24790a01774545e2f"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
+metafile = true
+
+[[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "1a0a919e4815e3869846483c937ecb395d0700fa10a1d1feae790508853773d8"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "9ea823bd03ce9811c59d00646203f5cb8560a7dacd9352f4b5e6865f7d05fcfd"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]
