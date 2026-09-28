@@ -1,0 +1,13 @@
+name = "MezzConfig"
+filename = "mezz_config-1.21.1-fabric-0.6.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31831bb01d368bba683b1350699ac7ecbbed0d25"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8987764
+project-id = 1689768

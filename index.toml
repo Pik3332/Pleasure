@@ -1,0 +1,21 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "774fd0adcb4fdc2e8f90991fe3515e68f21d41a10b9daa8094bb2f7b78790df6"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fb131bae1d25137aa21287eaa9e6b47ca871b5b82c43c042016b1c5fd2d27909"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "05827fa04fceca0d89d24538bf3445fd440af047d70c438f9b2ec9580d7b44dc"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
+metafile = true

@@ -1,0 +1,13 @@
+name = "TheWorld"
+author = "Korgix"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7f559108f7bb1a403d60b4b4e6e600ff6beed4e5f21c96bf9e4ca34d91b7b2c3"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.21.1"
