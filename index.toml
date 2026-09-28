@@ -7,15 +7,15 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fb131bae1d25137aa21287eaa9e6b47ca871b5b82c43c042016b1c5fd2d27909"
+hash = "47c701c67e70b60b3a71c9ec4aff707ea0411f033024730b1ca0567b8526a824"
 metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "05827fa04fceca0d89d24538bf3445fd440af047d70c438f9b2ec9580d7b44dc"
+hash = "0a94f9ca9a86267c51832956da72f6f9b8ba598dcac48c3a93b6e50d38089879"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
