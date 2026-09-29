@@ -17643,3 +17643,8 @@ hash = "8b57c459969c767b3f54f85b367908951ee00a2acc8915a4c8228658f5655f1d"
 [[files]]
 file = "mcpfabric/versions/26.3/gradle.properties"
 hash = "aa62562289279e53337b58282b724c7a3ceeee8d6c6225e579df3487c90b6e26"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
+metafile = true
