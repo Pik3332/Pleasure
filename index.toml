@@ -1,8 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
+metafile = true
+
+[[files]]
 file = "mods/mcpfabric.pw.toml"
 hash = "eab8c2dc567901d219a5a0204287120439c2d214b66d253cae0bf7a74fdda3bb"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "9ea823bd03ce9811c59d00646203f5cb8560a7dacd9352f4b5e6865f7d05fcfd"
 metafile = true
 
 [[files]]
