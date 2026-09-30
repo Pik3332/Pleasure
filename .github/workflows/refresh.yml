@@ -1,0 +1,35 @@
+name: Pack index check
+
+on: [push, pull_request]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Refresh index
+        run: packwiz refresh
+
+      - name: Fail if index is out of date
+        run: |
+          if ! git diff --exit-code -- index.toml pack.toml; then
+            echo "::error::index.toml is stale — run 'packwiz refresh' locally and commit."
+            exit 1
+          fi
